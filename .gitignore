@@ -1,0 +1,5 @@
+data/
+model/
+huggingface-models/
+venv/
+code/llama.cpp
